@@ -1,4 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;700&display=swap');
 
+/* CSS Variables */
+:root {
+  --primary-color: #acf5c5;
+  --border-radius: 5px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+}
 html {
   box-sizing: border-box;
 }
